@@ -1,3 +1,0 @@
-﻿  lunch system.cpp
-C:\Users\Playtech\Desktop\lunch system\lunch system\lunch system\lunch system.cpp(27,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  lunch system.vcxproj -> C:\Users\Playtech\Desktop\lunch system\lunch system\x64\Debug\lunch system.exe
