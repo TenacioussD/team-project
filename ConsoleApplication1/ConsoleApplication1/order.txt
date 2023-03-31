@@ -1,0 +1,5 @@
+
+Hot Dog Quantity: 2  Cost: $13
+Hot Dog Quantity: 2  Cost: $13
+Fizzy Drink Quantity: 1  Cost: $4
+Sandwich Quantity: 1  Cost: $8
